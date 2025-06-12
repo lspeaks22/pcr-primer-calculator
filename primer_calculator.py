@@ -36,18 +36,18 @@ def analyze_primers():
         is_valid = "Compatible!" if tm_diff <= 2 else "Not ideal."
 
         result = (
-            f"📌 Forward Primer\n"
+            f" Forward Primer\n"
             f"   • Sequence: {forward}\n"
             f"   • Length: {len(forward)} bases\n"
             f"   • GC Content: {f_gc}%\n"
             f"   • Tm: {f_tm}°C\n\n"
-            f"📌 Reverse Primer\n"
+            f" Reverse Primer\n"
             f"   • Sequence: {reverse}\n"
             f"   • Length: {len(reverse)} bases\n"
             f"   • GC Content: {r_gc}%\n"
             f"   • Tm: {r_tm}°C\n\n"
-            f"🔎 Tm Difference: {tm_diff}°C\n"
-            f"🧬 Primer Pair Compatibility: {is_valid}"
+            f"Tm Difference: {tm_diff}°C\n"
+            f" Primer Pair Compatibility: {is_valid}"
         )
         result_label.config(text=result)
 
