@@ -6,5 +6,6 @@ This PCR Calculator project reflects skills I developed through my molecular bio
 
 In that project, I designed and tested forward and reverse primers for various pathogens such as Acinetobacter baumannii, Pseudomonas aeruginosa, Bacillus thuringiensis, and many others using bioinformatics tools such as OligoAnalyzer 3.1. and NCBI BLAST. I validated primer specificity, calculated melting temperatures (Tm), and ran gel electrophoresis and HRM (high-resolution melt) curve analysis to ensure assay sensitivity and accuracy.
 
-<img width="661" alt="image" src="https://github.com/user-attachments/assets/5e97447b-600e-4280-9036-2e10d363e62e" />
+<img width="660" alt="image" src="https://github.com/user-attachments/assets/b8c36ce9-7602-4f0e-bc60-0d27fff3ee9c" />
+
 
